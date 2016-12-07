@@ -9,10 +9,10 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481080879995">
         <mark key="'" line="123" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481091714292">
-        <mark key="[" line="4" column="4" />
+      <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481093913575">
+        <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="5" />
+        <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
@@ -41,38 +41,41 @@
       <jump line="2" column="11" filename="$USER_HOME$/workspace/py/zest/test.py" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoYi9hKQo=</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoYi9hKQpwcmludChhLy9iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YSA9IDEwCmIgPSAyMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ym9vbAo=</text>
+        <text encoding="base64">cHJpbnQoZXZhbCgiMSArIDIiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJoZWxsbyB3b3JsZCIK</text>
+        <text encoding="base64">c3RyaW5nID0gImhlbGxvIgpzdHJpbmdbMV0gPSAnYScKcHJpbnQoc3RyaW5nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYoVHJ1ZSkK</text>
+        <text encoding="base64">IyBwcmludChzdHJbMjotMV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoIuS9oOWlvSDkuK3mlociKQo=</text>
+        <text encoding="base64">cHJpbnQoc3RyLl9fbGVuX18oKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBjb2RpbmcK</text>
+        <text encoding="base64">dHVwbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29kZWpqamoK</text>
+        <text encoding="base64">cHJpbnQoc3RyWzI6LTFdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29kaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
     </registers>
     <search>

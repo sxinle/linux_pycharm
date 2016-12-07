@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hello" />
+      <item value="colon" />
+      <item value="True" />
+      <item value="literal" />
+      <item value="string" />
+      <item value="tuple" />
       <item value="place Holder" />
       <item value="saber" />
       <item value="param" />
