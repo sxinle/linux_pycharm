@@ -11,6 +11,7 @@
       </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481089481988">
         <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="3" column="1" />
         <mark key="." line="3" column="1" />
         <mark key="^" line="3" column="1" />
@@ -18,7 +19,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089489061">
+      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089675187">
         <mark key="'" line="48" column="0" />
       </file>
     </filemarks>
@@ -29,6 +30,10 @@
       <jump line="38" column="73" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
       <jump line="161" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
       <jump line="8" column="26" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
     </jumps>
     <registers>
