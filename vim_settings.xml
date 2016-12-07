@@ -11,7 +11,7 @@
         <mark key="[" line="34" column="27" />
         <mark key="]" line="34" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1481090050461">
+      <file name="/Python Console" timestamp="1481100172140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1481091862439">
@@ -19,17 +19,24 @@
         <mark key="]" line="59" column="8" />
         <mark key="." line="59" column="8" />
       </file>
+      <file name="/fragment.py" timestamp="1481100247779">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481080879995">
         <mark key="'" line="123" column="50" />
       </file>
       <file name="/a.dummy" timestamp="1481095400773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481095775097">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
+      <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481100284692">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
@@ -55,44 +62,45 @@
       <jump line="48" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
       <jump line="38" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" />
-      <jump line="2" column="7" filename="$USER_HOME$/workspace/py/zest/test.py" />
+      <jump line="2" column="24" filename="$USER_HOME$/workspace/py/zest/test.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>SemanticsXYTSearcher</text>
+        <text>macpath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGlzdCA9IFsnYScsICdiJywgJ2MnLCAnZCddCgpmb3IgbCBpbiByYW5nZSgxLCBsZW4obGlzdCkpOgogICAgcHJpbnQoJ+W9k+WJjeWtl+avjScsIGxpc3RbbF0pCg==</text>
+        <text encoding="base64">cHJpbnQoZGlyKG1hY3BhdGgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YSA9IDAKCndoaWxlIGEgPCAxMDoKICAgIGEgKz0gMQogICAgaWYgYSAlIDIgPT0gMDoKICAgICAgICBjb250aW51ZQogICAgZWxzZToKICAgICAgICBpZiBhID4gNzoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBwcmludChhKQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0cmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhICs9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGEgKz0gMQo=</text>
+        <text encoding="base64">dG90YWwgPSAwCmRlZiBzdW0obnVtMSwgYWRkaXRpb25hbE51bSk6CiAgICBudW0xICs9IGFkZGl0aW9uYWxOdW0KICAgIHByaW50KG51bTEpCgoKc3VtKHRvdGFsLCAyMCkKcHJpbnQodG90YWwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgVHJ1ZToKICAgIHByaW50KCJ0cnVlIikKZWxpZiBGYWxzZToKICAgIHByaW50KCJnb29kIG5hbWUiKQplbHNlOgogICAgcHJpbnQoIjplbmQiKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoKDEgPT0gVHJ1ZSkpCg==</text>
+        <text encoding="base64">c3VtID0gbGFtYmRhIGFyZzEsIGFyZzI6IGFyZzEgKyBhcmcyCgpwcmludChzdW0oMSwgMikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWZlbAo=</text>
+        <text encoding="base64">ZGVmIHByaW50SW5mbyhhcmcsICpwYXJhbSk6CiAgICBmb3IgbmFtZSBpbiBwYXJhbToKICAgICAgICBwcmludChuYW1lKQogICAgcmV0dXJuCgoKcHJpbnRJbmZvKCJoZWxsbyIsICJuYW1lIiwgImFnZSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>string</text>
       </register>
     </registers>
     <search>
