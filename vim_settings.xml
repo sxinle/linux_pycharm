@@ -9,12 +9,11 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481080879995">
         <mark key="'" line="123" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481090378291">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="3" column="1" />
-        <mark key="." line="3" column="1" />
-        <mark key="^" line="3" column="1" />
+      <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481091714292">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
@@ -39,28 +38,41 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
+      <jump line="2" column="11" filename="$USER_HOME$/workspace/py/zest/test.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">YS5qamtqCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHJpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ym9vbAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ICAgICJoZWxsbyB3b3JsZCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">aWYoVHJ1ZSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQoIuS9oOWlvSDkuK3mlociKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBjb2RpbmcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29kZWpqamoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y29kaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>bash</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -70,6 +82,7 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>se list</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -81,6 +94,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
