@@ -11,7 +11,7 @@
         <mark key="[" line="34" column="27" />
         <mark key="]" line="34" column="46" />
       </file>
-      <file name="/Python Console" timestamp="1481100172140">
+      <file name="/Python Console" timestamp="1481102063101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1481091862439">
@@ -31,12 +31,11 @@
       <file name="/a.dummy" timestamp="1481095400773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481100284692">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481101943207">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
@@ -64,43 +63,44 @@
       <jump line="38" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" />
       <jump line="2" column="24" filename="$USER_HOME$/workspace/py/zest/test.py" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
+      <jump line="3" column="4" filename="$USER_HOME$/workspace/py/zest/test.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>macpath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoZGlyKG1hY3BhdGgpKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cmluZwo=</text>
+        <text encoding="base64">ICAgIHBhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGUuYXJncykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhjZXB0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dG90YWwgPSAwCmRlZiBzdW0obnVtMSwgYWRkaXRpb25hbE51bSk6CiAgICBudW0xICs9IGFkZGl0aW9uYWxOdW0KICAgIHByaW50KG51bTEpCgoKc3VtKHRvdGFsLCAyMCkKcHJpbnQodG90YWwpCg==</text>
+        <text encoding="base64">Zm9yIHN0ciBpbiBkaXIobWFjcGF0aCk6CiAgICBwcmludChzdHIpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoZGlyKG1hY3BhdGgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">aW1wb3J0IHN0cmluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3VtID0gbGFtYmRhIGFyZzEsIGFyZzI6IGFyZzEgKyBhcmcyCgpwcmludChzdW0oMSwgMikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHByaW50SW5mbyhhcmcsICpwYXJhbSk6CiAgICBmb3IgbmFtZSBpbiBwYXJhbToKICAgICAgICBwcmludChuYW1lKQogICAgcmV0dXJuCgoKcHJpbnRJbmZvKCJoZWxsbyIsICJuYW1lIiwgImFnZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>Exception</text>
       </register>
     </registers>
     <search>
