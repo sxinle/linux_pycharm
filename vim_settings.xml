@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089737574">
+      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
         <mark key="'" line="48" column="0" />
       </file>
     </filemarks>
@@ -31,9 +31,12 @@
       <jump line="161" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
       <jump line="8" column="26" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
     </jumps>
     <registers>
@@ -74,6 +77,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
