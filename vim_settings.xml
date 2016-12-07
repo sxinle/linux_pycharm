@@ -11,10 +11,13 @@
         <mark key="[" line="34" column="27" />
         <mark key="]" line="34" column="46" />
       </file>
+      <file name="/File Header.txt.ft" timestamp="1481094374135">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1481090050461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1481091862439">
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1481094510156">
         <mark key="[" line="59" column="8" />
         <mark key="]" line="59" column="8" />
         <mark key="." line="59" column="8" />
@@ -34,6 +37,12 @@
       </file>
       <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
         <mark key="'" line="48" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1481094442631">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -99,6 +108,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
