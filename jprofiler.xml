@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateCache" checksum="1480961206837">
+    <jvm name="/usr/lib/jvm/oracle-jdk-8.111" value="-agentpath:/opt/jprofiler9/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
+  </component>
+</application>

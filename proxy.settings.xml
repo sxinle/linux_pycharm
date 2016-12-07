@@ -1,0 +1,8 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="PROXY_LOGIN" value="9026687@qq.com" />
+    <option name="PROXY_PASSWORD_CRYPT" value="aDREekhkc2t4N2tZ" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+  </component>
+</application>

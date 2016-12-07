@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="quote" value="&quot;$SELECTION$&quot;" description="surround with &quot;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="date" value="$DATE$" description="date" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="groovyScript(&quot;new Date().format('yyyy-MM-dd')&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

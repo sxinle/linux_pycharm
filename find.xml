@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '[search_core] - .../search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java'" />
+    <option name="defaultScopeName" value="File '[search_core] - .../search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java'" />
+    <option name="SEARCH_SCOPE" value="File '[search_core] - .../search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.html</mask>
+      <mask>.properties</mask>
+      <mask>.js</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>
