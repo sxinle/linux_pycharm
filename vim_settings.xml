@@ -14,10 +14,13 @@
       <file name="/Python Console" timestamp="1481090050461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1481102160509">
+      <file name="/CityDetailResp.java" timestamp="1481102510553">
+        <mark key="'" line="165" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1481102564613">
         <mark key="'" line="131" column="0" />
-        <mark key="[" line="65" column="38" />
-        <mark key="]" line="65" column="38" />
+        <mark key="[" line="39" column="27" />
+        <mark key="]" line="42" column="39" />
         <mark key="." line="65" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481080879995">
@@ -64,10 +67,15 @@
       <jump line="55" column="16" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="131" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="17" column="20" filename="/CityDetailResp.java" />
+      <jump line="165" column="0" filename="/CityDetailResp.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>SemanticsXYTSearcher</text>
+      <register name="0" type="8">
+        <text>mpty(param)) 
+ = mapper.rea
+rds().length(
+EMPTY_RESULT;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YS5qamtqCg==</text>
@@ -107,7 +115,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
