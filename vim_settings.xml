@@ -19,6 +19,9 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089489061">
+        <mark key="'" line="48" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
@@ -26,6 +29,8 @@
       <jump line="123" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="38" column="73" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
       <jump line="161" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
+      <jump line="8" column="26" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
