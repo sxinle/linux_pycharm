@@ -18,8 +18,12 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481159879087">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481161792024">
         <mark key="'" line="217" column="0" />
+        <mark key="[" line="12" column="64" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="/a.dummy" timestamp="1481095400773">
         <mark key="[" line="0" column="0" />
@@ -95,31 +99,31 @@ rds().length(
 EMPTY_RESULT;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YS5qamtqCg==</text>
+        <text encoding="base64">YW9wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">YS5qamtqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cHJpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZGlyKG1hY3BhdGgpKQo=</text>
+        <text encoding="base64">cHJpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0cmluZwo=</text>
+        <text encoding="base64">cHJpbnQoZGlyKG1hY3BhdGgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
