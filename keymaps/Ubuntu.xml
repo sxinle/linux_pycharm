@@ -226,4 +226,8 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="context.load" />
+  <action id="javaee.UpdateRunningApplication">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
 </keymap>
