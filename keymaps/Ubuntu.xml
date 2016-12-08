@@ -67,10 +67,6 @@
   <action id="ExclusiveTranslateAction">
     <keyboard-shortcut first-keystroke="alt numpad3" />
   </action>
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
-    <keyboard-shortcut first-keystroke="ctrl o" />
-  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
