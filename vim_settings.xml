@@ -18,12 +18,12 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481161792024">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481162653542">
         <mark key="'" line="217" column="0" />
-        <mark key="[" line="12" column="64" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="8" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1481095400773">
         <mark key="[" line="0" column="0" />
@@ -59,6 +59,7 @@
       <file name="/fragment.java" timestamp="1481099218114">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/web/bind/annotation/SessionAttributes.java" timestamp="1481163326565" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,7 +91,6 @@
       <jump line="20" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="12" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="217" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
     </jumps>
     <registers>
       <register name="0" type="8">
@@ -100,37 +100,37 @@ rds().length(
 EMPTY_RESULT;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW9wCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YS5qamtqCg==</text>
+        <text encoding="base64">YW9wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">YS5qamtqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">cHJpCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoZGlyKG1hY3BhdGgpKQo=</text>
+        <text encoding="base64">cHJpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>hello</text>
+        <text>20</text>
       </register>
     </registers>
     <search>
@@ -158,13 +158,13 @@ EMPTY_RESULT;</text>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -173,7 +173,7 @@ EMPTY_RESULT;</text>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -202,6 +202,24 @@ EMPTY_RESULT;</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
