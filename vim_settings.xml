@@ -90,6 +90,7 @@
       <jump line="20" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="12" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="217" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
     </jumps>
     <registers>
       <register name="0" type="8">
