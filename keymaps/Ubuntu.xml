@@ -1,8 +1,4 @@
 <keymap version="1" name="Ubuntu" parent="Default for GNOME">
-  <action id="$SelectAll">
-    <keyboard-shortcut first-keystroke="ctrl a" />
-    <keyboard-shortcut first-keystroke="alt a" />
-  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
