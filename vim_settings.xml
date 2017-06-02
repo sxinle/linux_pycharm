@@ -6,7 +6,7 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1496387995424">
+      <file name="/Python Console" timestamp="1496395560642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/CityDetailResp.java" timestamp="1481102510553">
@@ -52,7 +52,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/mdict-query/readmdict.py" timestamp="1496392880990">
+      <file name="$USER_HOME$/Downloads/mdict-query/readmdict.py" timestamp="1496395074695">
+        <mark key="'" line="894" column="26" />
         <mark key="[" line="254" column="31" />
         <mark key="]" line="254" column="37" />
       </file>
@@ -105,6 +106,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
       <jump line="1" column="10" filename="$USER_HOME$/workspace/py/zest/test.py" />
+      <jump line="894" column="26" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
