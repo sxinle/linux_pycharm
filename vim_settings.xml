@@ -55,10 +55,10 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/mdict-query/readmdict.py" timestamp="1496666527180">
+      <file name="$USER_HOME$/Downloads/mdict-query/readmdict.py" timestamp="1496667540091">
         <mark key="'" line="119" column="19" />
-        <mark key="[" line="351" column="8" />
-        <mark key="]" line="351" column="21" />
+        <mark key="[" line="66" column="10" />
+        <mark key="]" line="66" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
         <mark key="'" line="48" column="0" />
@@ -132,7 +132,7 @@
         <text encoding="base64">XDxfcGFzc2NvZGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>key_block_size</text>
+        <text>ripemd128</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB0a2ludGVyIGltcG9ydCAqICAjIOWvvOWFpSBUa2ludGVyIOW6kwoKcm9vdCA9IFRrKCkgICMg5Yib5bu656qX5Y+j5a+56LGh55qE6IOM5pmv6ImyCiMg5Yib5bu65Lik5Liq5YiX6KGoCmxpID0gWydDJywgJ3B5dGhvbicsICdwaHAnLCAnaHRtbCcsICdTUUwnLCAnamF2YSddCm1vdmllID0gWydDU1MnLCAnalF1ZXJ5JywgJ0Jvb3RzdHJhcCddCmxpc3RiID0gTGlzdGJveChyb290KSAgIyDliJvlu7rkuKTkuKrliJfooajnu4Tku7YKbGlzdGIyID0gTGlzdGJveChyb290KQpmb3IgaXRlbSBpbiBsaTogICMg56ys5LiA5Liq5bCP6YOo5Lu25o+S5YWl5pWw5o2uCiAgICBsaXN0Yi5pbnNlcnQoMCwgaXRlbSkKCmZvciBpdGVtIGluIG1vdmllOiAgIyDnrKzkuozkuKrlsI/pg6jku7bmj5LlhaXmlbDmja4KICAgIGxpc3RiMi5pbnNlcnQoMCwgaXRlbSkKCmxpc3RiLnBhY2soKSAgIyDlsIblsI/pg6jku7bmlL7nva7liLDkuLvnqpflj6PkuK0KbGlzdGIyLnBhY2soKQpyb290Lm1haW5sb29wKCkgICMg6L+b5YWl5raI5oGv5b6q546vCg==</text>
