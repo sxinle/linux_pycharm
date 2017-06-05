@@ -52,8 +52,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/mdict-query/readmdict.py" timestamp="1496651067297">
-        <mark key="'" line="894" column="26" />
+      <file name="$USER_HOME$/Downloads/mdict-query/readmdict.py" timestamp="1496653386089">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="125" column="31" />
         <mark key="]" line="125" column="43" />
       </file>
@@ -107,8 +107,19 @@
       <jump line="22" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
       <jump line="1" column="10" filename="$USER_HOME$/workspace/py/zest/test.py" />
       <jump line="894" column="26" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
+      <jump line="331" column="34" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
+      <jump line="908" column="34" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
+      <jump line="923" column="33" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
     </jumps>
     <registers>
+      <register name="-" type="4">
+        <text>import</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx1bmljb2RlXD4=</text>
+      </register>
       <register name="0" type="4">
         <text>(\w+)=&quot;(.*?)&quot;</text>
       </register>
@@ -142,16 +153,18 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>import</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search encoding="base64">XDx1bmljb2RlXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx1bmljb2RlXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDx1bmljb2RlXD4=</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
