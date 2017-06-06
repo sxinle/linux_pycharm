@@ -57,8 +57,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/mdict-query/readmdict.py" timestamp="1496744204238">
-        <mark key="'" line="667" column="50" />
+      <file name="$USER_HOME$/Downloads/mdict-query/readmdict.py" timestamp="1496744814470">
+        <mark key="'" line="516" column="8" />
         <mark key="[" line="648" column="0" />
         <mark key="]" line="652" column="53" />
         <mark key="." line="62" column="0" />
@@ -131,13 +131,16 @@
       <jump line="645" column="8" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
       <jump line="650" column="12" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
       <jump line="667" column="50" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
+      <jump line="514" column="8" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
+      <jump line="739" column="8" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
+      <jump line="516" column="8" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>bytearray(key).li</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNvcmRfYmxvY2tfaW5mb19saXN0XD4=</text>
+        <text encoding="base64">XDxpbmRleF9kaWN0X2xpc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29tcHJlc3NlZF9zaXplID0gc2VsZi5fcmVhZF9udW1iZXIoZikKICAgICAgICAgICAgZGVjb21wcmVzc2VkX3NpemUgPSBzZWxmLl9yZWFkX251bWJlcihmKQogICAgICAgICAgICByZWNvcmRfYmxvY2tfaW5mb19saXN0ICs9IFsoY29tcHJlc3NlZF9zaXplLCBkZWNvbXByZXNzZWRfc2l6ZSldCiAgICAgICAgICAgIHNpemVfY291bnRlciArPSBzZWxmLl9udW1iZXJfd2lkdGggKiAyCiAgICAgICAgYXNzZXJ0KHNpemVfY291bnRlciA9PSByZWNvcmRfYmxvY2tfaW5mb19zaXplKQo=</text>
@@ -174,9 +177,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWNvcmRfYmxvY2tfaW5mb19saXN0XD4=</last-search>
+      <last-search encoding="base64">XDxpbmRleF9kaWN0X2xpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNvcmRfYmxvY2tfaW5mb19saXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbmRleF9kaWN0X2xpc3RcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -187,6 +190,8 @@
         <entry>decode_key</entry>
         <entry encoding="base64">XDxfZGVjb2RlX2tleV9ibG9ja19pbmZvXD4=</entry>
         <entry encoding="base64">XDxyZWNvcmRfYmxvY2tfaW5mb19saXN0XD4=</entry>
+        <entry encoding="base64">XDxnZXRfaW5kZXhcPg==</entry>
+        <entry encoding="base64">XDxpbmRleF9kaWN0X2xpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
