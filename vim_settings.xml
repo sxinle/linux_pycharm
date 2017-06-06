@@ -6,7 +6,7 @@
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1496735050056">
+      <file name="/Python Console" timestamp="1496737875119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/CityDetailResp.java" timestamp="1481102510553">
@@ -57,10 +57,10 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/mdict-query/readmdict.py" timestamp="1496736311465">
-        <mark key="'" line="53" column="4" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
+      <file name="$USER_HOME$/Downloads/mdict-query/readmdict.py" timestamp="1496737894582">
+        <mark key="'" line="131" column="8" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="157" column="24" />
         <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
@@ -127,16 +127,17 @@
       <jump line="102" column="0" filename="$USER_HOME$/Downloads/mdict-query/ripemd128.py" />
       <jump line="119" column="19" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
       <jump line="53" column="4" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
+      <jump line="131" column="8" filename="$USER_HOME$/Downloads/mdict-query/readmdict.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>bytearray(key).li</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcGFzc2NvZGVcPg==</text>
+        <text encoding="base64">XDxfZGVjb2RlX2tleV9ibG9ja19pbmZvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>p</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl92ZXJzaW9uID49IDI6CiAgICAgICAgICAgIGJ5dGVfZm9ybWF0ID0gJz5IJwogICAgICAgICAgICBieXRlX3dpZHRoID0gMgogICAgICAgICAgICB0ZXh0X3Rlcm0gPSAxCiAgICAgICAgZWxzZToKICAgICAgICAgICAgYnl0ZV9mb3JtYXQgPSAnPkInCiAgICAgICAgICAgIGJ5dGVfd2lkdGggPSAxCiAgICAgICAgICAgIHRleHRfdGVybSA9IDAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCB0Cg==</text>
@@ -170,9 +171,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcGFzc2NvZGVcPg==</last-search>
+      <last-search encoding="base64">XDxfZGVjb2RlX2tleV9ibG9ja19pbmZvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcGFzc2NvZGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfZGVjb2RlX2tleV9ibG9ja19pbmZvXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -180,6 +181,8 @@
       <history-search>
         <entry encoding="base64">XDx1bmljb2RlXD4=</entry>
         <entry encoding="base64">XDxfcGFzc2NvZGVcPg==</entry>
+        <entry>decode_key</entry>
+        <entry encoding="base64">XDxfZGVjb2RlX2tleV9ibG9ja19pbmZvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
